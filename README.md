@@ -1,6 +1,10 @@
 # Vishal Singh Sisodiya
 B.Tech Computer Science Engineering graduate (2026) with hands-on experience in full-stack MERN development, backend systems, REST API validation and database migration. Strong foundation in DSA (C++), Python and SQL, with 200+ problems solved on LeetCode.
-Indore, Madhya Pradesh · [Portfolio](https://vishal-portfolio-gamma.vercel.app) · [LinkedIn](https://www.linkedin.com/in/vishal-singh-sisodiya-0a4631264) · [LeetCode](https://leetcode.com/u/user5412m) · vishalsinghsisodiya.ofc@gmail.com
+Indore, Madhya Pradesh 
+
+· [Portfolio](https://vishal-portfolio-gamma.vercel.app) 
+· [LinkedIn](https://www.linkedin.com/in/vishal-singh-sisodiya-0a4631264)
+· [LeetCode](https://leetcode.com/u/user5412m) · vishalsinghsisodiya.ofc@gmail.com
 ## Experience
 **AI Engineer Intern, Backend & Systems Engineering | HCE Secure** (Indore, Feb 2026 – Jul 2026)
 - Built a cross-platform desktop application using React and TypeScript with a C++ backend via N-API
